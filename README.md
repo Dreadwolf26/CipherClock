@@ -33,7 +33,6 @@ Usage:
 
 3. Run the main.py script to launch the CipherClock user interface.
 
-4. Follow the on-screen instructions to encrypt or decrypt messages within a time-bound context.![image](https://github.com/Dreadwolf26/CipherClock/assets/107774155/e06f68a5-7953-405d-80b1-9cb09990a2ed)
-
+4. Follow the on-screen instructions to encrypt or decrypt messages within a time-bound context.
 
 CipherClock is designed for individuals who prioritize data protection and need a reliable tool for secure messaging within a time-bound context.
