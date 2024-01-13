@@ -16,4 +16,4 @@ Secure Communication:
 
  While CipherClock does not send messages on behalf of users, it provides a secure and privacy-focused environment for exchanging sensitive information.
 
-CipherClock is designed for individuals who prioritize data protection and need a reliable tool for secure messaging within a time-bound context.![image](https://github.com/Dreadwolf26/CipherClock/assets/107774155/5f82fc60-3bbd-4e46-9ad3-495f1994c9a6)
+CipherClock is designed for individuals who prioritize data protection and need a reliable tool for secure messaging within a time-bound context.
