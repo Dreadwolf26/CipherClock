@@ -16,4 +16,24 @@ Secure Communication:
 
  While CipherClock does not send messages on behalf of users, it provides a secure and privacy-focused environment for exchanging sensitive information.
 
+ Dependencies:
+
+Before using CipherClock, make sure you have the following dependencies installed:
+
+Crypto library: Used for encryption and decryption. You can install it using pip:
+  
+pip install pycryptodome
+ 
+
+Usage:
+
+1. Clone or download this repository to your local machine.
+
+2. Install the required dependencies using pip.
+
+3. Run the main.py script to launch the CipherClock user interface.
+
+4. Follow the on-screen instructions to encrypt or decrypt messages within a time-bound context.![image](https://github.com/Dreadwolf26/CipherClock/assets/107774155/e06f68a5-7953-405d-80b1-9cb09990a2ed)
+
+
 CipherClock is designed for individuals who prioritize data protection and need a reliable tool for secure messaging within a time-bound context.
